@@ -19,6 +19,8 @@
 | empty-trash | empty-trash | node | https://github.com/sindresorhus/empty-trash-cli | empty the trash |
 | vtop | vtop | node | https://www.npmjs.com/package/vtop | nicer top cli |
 | yeoman | yo | node | https://www.npmjs.com/package/yo | scaffolding tool |
+| trash | trash | node | https://github.com/sindresorhus/trash | === rm to trashcan |
+| public ip | public-ip | node | | print public ip |
 
 ## libraries
 | name | source | url | def |
