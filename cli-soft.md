@@ -24,6 +24,10 @@
 | nvm | nvm | brew | | node version manager |
 | pyenv | pyenv | brew | | python version manager |
 
+| fortune | brew
+| cowsay | brew
+| lolcat | brew
+
 ## libraries
 | name | source | url | def |
 | ------ | ---- | ---- | ----- |
