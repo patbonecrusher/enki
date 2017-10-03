@@ -22,3 +22,28 @@ todo highlight - wayou.vscode-todo-highlight
 todo-plus - fabiospampinato.vscode-todo-plus
 
 docker syntax highlight - PeterJausovec.vscode-docker
+
+Braver.gitup
+DavidAnson.vscode-markdownlint
+EditorConfig.EditorConfig
+JakeBecker.elixir-ls
+PeterJausovec.vscode-docker
+TwentyChung.elixir
+WallabyJs.quokka-vscode
+WallabyJs.wallaby-vscode
+alefragnani.project-manager
+bierner.emojisense
+christian-kohler.npm-intellisense
+codezombiech.gitignore
+dbaeumer.vscode-eslint
+donjayamanne.git-extension-pack
+donjayamanne.githistory
+eamodio.gitlens
+fabiospampinato.vscode-todo-plus
+gigacore.blacksand
+iampeterbanjo.elixirlinter
+mjmcloug.vscode-elixir
+reflectiondm.npmsmartimporter
+roblourens.npm-link-status
+wayou.vscode-todo-highlight
+ziyasal.vscode-open-in-github
