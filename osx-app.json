@@ -1,0 +1,294 @@
+[{
+  "name": "pikka",
+  "category": "Developer Tools",
+  "description": "Color picker for developers and designers.",
+  "source": "App Store",
+  "usage": "Infrequently",
+  "id": "1195076754"
+},{
+  "name": "JSON Query",
+  "category": "Developer Tools",
+  "description": "Json searching tool",
+  "source": "App Store",
+  "usage": "Rarely",
+  "id": "953006734"
+},{
+  "name": "JSONEditor",
+  "category": "Developer Tools",
+  "description": "Json editing tool",
+  "source": "App Store",
+  "usage": "Constantly",
+  "id": "717009855"
+},{
+  "name": "SnippetsLab",
+  "category": "Developer tools",
+  "description": "Snippet manager",
+  "source": "App Store",
+  "usage": "Constantly",
+  "id": "1006087419"
+},{
+  "name": "Euclid",
+  "category": "Developer Tools",
+  "description": "Line measuring tool",
+  "source": "App Store",
+  "usage": "Rarely - only when I do UI work",
+  "id": "656423396"
+},{
+  "name": "Pixel stick",
+  "category": "Developer Tools",
+  "description": "Line measuring tool",
+  "source": "App Store",
+  "usage": "Rarely - only when I do UI work",
+  "id": "415158530"
+},{
+  "name": "Xcode",
+  "category": "Developer Tools",
+  "description": "Mac dev tool",
+  "source": "App Store",
+  "usage": "Frequently",
+  "id": "497799835"
+},{
+  "name": "Microsoft Remote Desktop",
+  "category": "Developer Tools",
+  "description": "Remote desktop viewer",
+  "source": "App Store",
+  "usage": "Infrequently",
+  "id": "715768417"
+},{
+  "name": "Trello",
+  "category": "Developer Tools",
+  "description": "Sprint board",
+  "source": "App Store",
+  "usage": "Infrequently",
+  "id": "1278508951"
+},{
+  "name": "MindMapple",
+  "category": "Brainstorming",
+  "description": "Mind mapping tools",
+  "source": "App Store",
+  "usage": "Frequently",
+  "id": "731829889"
+},{
+  "name": "Scapple",
+  "category": "Brainstorming",
+  "description": "Whiteboard",
+  "source": "App Store",
+  "usage": "Frequently",
+  "id": "568020055"
+},{
+  "name": "Pocket",
+  "category": "Documentation",
+  "description": "Place to store references and webpage to read",
+  "source": "App Store",
+  "usage": "Frequently",
+  "id": "568494494"
+},{
+  "name": "Paper",
+  "category": "Documentation",
+  "description": "Nice markdown editor",
+  "note": "Investigate it more before buying the extras",
+  "source": "App Store",
+  "usage": "Rarely",
+  "id": "1143513744"
+},{
+  "name": "Place To Write",
+  "category": "Documentation",
+  "description": "Nice markdown editor",
+  "note": "Should use more often to write markdown",
+  "source": "App Store",
+  "usage": "Rarely",
+  "id": "1095401791"
+},{
+  "name": "Evernote",
+  "category": "Documentation",
+  "description": "Notes library",
+  "note": "Trying to get rid of it - needs to migrate it over",
+  "source": "App Store",
+  "usage": "Rarely",
+  "id": "406056744"
+},{
+  "name": "MWeb",
+  "category": "Documentation",
+  "description": "Notes library",
+  "note": "Trying to replace evernote with this",
+  "source": "App Store",
+  "usage": "Frequently",
+  "id": "954188948"
+},{
+  "name": "Pages",
+  "category": "Documentation",
+  "description": "Word processor",
+  "source": "App Store",
+  "usage": "Rarely",
+  "id": "409201541"
+},{
+  "name": "Numbers",
+  "category": "Documentation",
+  "description": "Spreadsheet",
+  "source": "App Store",
+  "usage": "Rarely",
+  "id": "409203825"
+},{
+  "name": "Slack",
+  "category": "Communication",
+  "description": "IM tool",
+  "source": "App Store",
+  "usage": "Constantly",
+  "id": "803453959"
+},{
+  "name": "Spark",
+  "category": "Communication",
+  "description": "Email",
+  "source": "App Store",
+  "usage": "Constantly for office",
+  "id": "1176895641"
+},{
+  "name": "Pixelmator",
+  "category": "Graphics",
+  "description": "Photoshop replacements",
+  "source": "App Store",
+  "usage": "Infrequently",
+  "id": "407963104"
+},{
+  "name": "Gapplin",
+  "category": "Graphics",
+  "description": "svg viewer",
+  "source": "App Store",
+  "usage": "Infrequently",
+  "id": "768053424"
+},{
+  "name": "Unclutter",
+  "category": "Utilities",
+  "description": "Clipboard/notes out of the way tools",
+  "source": "App Store",
+  "usage": "Constantly",
+  "id": "577085396"
+},{
+  "name": "The Clock",
+  "category": "Utilities",
+  "description": "Better clock replacement",
+  "source": "App Store",
+  "usage": "Constantly",
+  "id": "488764545"
+},{
+  "name": "Yoink",
+  "category": "Utilities",
+  "description": "Copy/paste helper",
+  "source": "App Store",
+  "usage": "Rarely",
+  "id": "457622435"
+},{
+  "name": "EpochClock",
+  "category": "Utilities",
+  "description": "Unix clock",
+  "source": "App Store",
+  "usage": "Rarely",
+  "id": "471739929"
+},{
+  "name": "Svgsus",
+  "category": "Utilities",
+  "description": "Svg image library",
+  "source": "App Store",
+  "usage": "Rarely",
+  "id": "1106867065"
+},{
+  "name": "MenuBar Stats",
+  "category": "Utilities",
+  "description": "Shows stats on the menu bar",
+  "source": "App Store",
+  "usage": "Rarely",
+  "id": "714196447"
+},{
+  "name": "Commander One",
+  "category": "Utilities",
+  "description": "Finder replacement",
+  "note": "Currently evaluating",
+  "source": "App Store",
+  "usage": "Rarely",
+  "id": "1035236694"
+},{
+  "name": "SonicWall Mobile Connect",
+  "category": "Utilities",
+  "description": "Vpn client to the office",
+  "note": "Currently evaluating",
+  "source": "App Store",
+  "usage": "Rarely",
+  "id": "822514576"
+},{
+  "name": "iota-calc",
+  "category": "Utilities",
+  "description": "Better calculator",
+  "source": "App Store",
+  "usage": "Frequently",
+  "id": "412603693"
+},{
+  "name": "Magnet",
+  "category": "Utilities",
+  "description": "Organise windows on screen",
+  "source": "App Store",
+  "usage": "Constantly",
+  "id": "441258766"
+},{
+  "name": "CaffeinateMe",
+  "category": "Utilities",
+  "description": "Prefent computer from falling asleep",
+  "source": "App Store",
+  "usage": "Infrequently",
+  "id": "661981922"
+},{
+  "name": "1Password",
+  "category": "Utilities",
+  "description": "Organise my password",
+  "source": "App Store",
+  "usage": "Constantly",
+  "id": "443987910"
+},{
+  "name": "LastPass",
+  "category": "Utilities",
+  "description": "Organise pharos password",
+  "source": "App Store",
+  "usage": "Frequently",
+  "id": "926036361"
+},{
+  "name": "Jigsaws Galor",
+  "category": "Games",
+  "description": "Puzzle game",
+  "source": "App Store",
+  "usage": "Constantly",
+  "id": "426250075"
+},{
+  "name": "MacFamilyTree 8",
+  "category": "Hobby",
+  "description": "Genealogy",
+  "source": "App Store",
+  "usage": "Frequently",
+  "id": "1037755919"
+},{
+  "name": "Deluxe Moon",
+  "category": "References",
+  "description": "Moon information live",
+  "source": "App Store",
+  "usage": "Infrequently",
+  "id": "463298923"
+},{
+  "name": "Kindle",
+  "category": "References",
+  "description": "Kindle book reader",
+  "source": "App Store",
+  "usage": "Infrequently",
+  "id": "405399194"
+},{
+  "name": "Mac tracker",
+  "category": "References",
+  "description": "Historical info about mac",
+  "source": "App Store",
+  "usage": "Infrequently",
+  "id": "430255202"
+},{
+  "name": "Weather Dock",
+  "category": "References",
+  "description": "Weather forecast",
+  "source": "App Store",
+  "usage": "Infrequently",
+  "id": "571197687"
+}]

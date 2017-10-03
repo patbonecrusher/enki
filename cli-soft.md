@@ -21,6 +21,8 @@
 | yeoman | yo | node | https://www.npmjs.com/package/yo | scaffolding tool |
 | trash | trash | node | https://github.com/sindresorhus/trash | === rm to trashcan |
 | public ip | public-ip | node | | print public ip |
+| nvm | nvm | brew | | node version manager |
+| pyenv | pyenv | brew | | python version manager |
 
 ## libraries
 | name | source | url | def |
