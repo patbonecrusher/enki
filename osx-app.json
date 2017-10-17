@@ -48,6 +48,12 @@
   "usage": "Frequently",
   "id": "497799835"
 },{
+  "name": "Medis",
+  "category": "Developer Tools",
+  "description": "redis client",
+  "source": "Forked and build",
+  "usage": "Frequently"
+},{
   "name": "Microsoft Remote Desktop",
   "category": "Developer Tools",
   "description": "Remote desktop viewer",
@@ -291,4 +297,99 @@
   "source": "App Store",
   "usage": "Infrequently",
   "id": "571197687"
+},{
+  "name": "Macmoon",
+  "category": "Developer Tools",
+  "description": "Mock rest services",
+  "source": "Manual download",
+  "note": "electron app",
+  "usage": "Infrequently"
+},{
+  "name": "Minta",
+  "category": "Developer Tools",
+  "description": "Regular expression",
+  "source": "Manual download",
+  "note": "electron app",
+  "usage": "Infrequently"
+},{
+  "name": "FoobarPlus",
+  "category": "Developer Tools",
+  "description": "Code runner",
+  "source": "Manual download",
+  "note": "Originally purchased on the app store",
+  "usage": "Infrequently"
+},{
+  "name": "ndm",
+  "category": "Developer Tools",
+  "description": "Node Dependency Manager",
+  "source": "Manual download",
+  "note": "Electron app",
+  "usage": "Infrequently"
+},{
+  "name": "Elements",
+  "category": "References",
+  "description": "Element table",
+  "source": "Manual download",
+  "note": "Electron app",
+  "usage": "Never"
+},{
+  "name": "PaintCode",
+  "category": "Graphics",
+  "description": "To manage app graphics in raster format",
+  "source": "Manual download",
+  "note": "Originally purchased on the app store",
+  "usage": "Infrequently"
+},{
+  "name": "GravitDesigner",
+  "category": "Graphics",
+  "description": "Vector editor",
+  "source": "Manual download",
+  "usage": "Rarely"
+},{
+  "name": "DaisyDisk",
+  "category": "Utilities",
+  "description": "Monitor disk space",
+  "source": "brew cask",
+  "note": "Originally purchased on the app store",
+  "usage": "Rarely"
+},{
+  "name": "Dash",
+  "category": "References",
+  "description": "Code documentation",
+  "source": "brew cask",
+  "note": "Originally purchased on the app store",
+  "usage": "Infrequently"
+},{
+  "name": "Fromscratch",
+  "category": "Utilities",
+  "description": "Scratchpad",
+  "source": "Compiled by myself",
+  "note": "Forked from original to have my own theme",
+  "usage": "Constantly"
+},{
+  "name": "Cheatsheet",
+  "category": "Utilities",
+  "description": "Shortcut viewer of all apps",
+  "source": "brew cask",
+  "usage": "Rarely"
+},{
+  "name": "Mongotron",
+  "category": "Developer",
+  "description": "Mongo client",
+  "source": "brew cask",
+  "usage": "Evaluation"
+},{
+  "name": "Hozz",
+  "category": "Utilities",
+  "description": "Switching host file on the fly",
+  "source": "Manual Download",
+  "url": "http://blog.zhangruipeng.me/Hozz/",
+  "usage": "Rarely"
+},{
+  "name": "eqmac",
+  "category": "Utilities",
+  "description": "Sound equalizer",
+  "source": "Manual Download",
+  "url": "https://bitgapp.com/eqmac/",
+  "usage": "Constantly"
 }]

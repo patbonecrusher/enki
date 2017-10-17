@@ -24,9 +24,15 @@
 | nvm | nvm | brew | | node version manager |
 | pyenv | pyenv | brew | | python version manager |
 
+| wifi-password-cli | node | show wifi password
+
 | fortune | brew
 | cowsay | brew
 | lolcat | brew
+
+| hub | brew | This is easily one of my favorites. You can think of hub as all the same functionality of git, but with add-ons that make it compatible with GitHub.
+
+| tree | show cintent of folder in tree format
 
 ## libraries
 | name | source | url | def |
