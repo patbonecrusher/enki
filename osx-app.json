@@ -80,6 +80,13 @@
   "source": "npm",
   "usage": "Infrequently"
 },{
+  "git": "https://github.com/bahmutov/npm-quick-run",
+  "name": "npm-quick-run",
+  "category": "Developer Tools",
+  "description": "Quickly run NPM script by prefix without typing the full name",
+  "source": "npm",
+  "usage": "Constantly"
+},{
   "name": "Trello",
   "category": "Developer Tools",
   "description": "Sprint board",
