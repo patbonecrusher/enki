@@ -87,6 +87,13 @@
   "source": "npm",
   "usage": "Constantly"
 },{
+  "git": "https://github.com/bahmutov/json-package",
+  "name": "json-package",
+  "category": "Developer Tools",
+  "description": "inspect package.json content from cli using j",
+  "source": "npm",
+  "usage": "Constantly"
+},{
   "name": "Trello",
   "category": "Developer Tools",
   "description": "Sprint board",
