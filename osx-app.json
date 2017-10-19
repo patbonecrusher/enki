@@ -61,6 +61,18 @@
   "usage": "Infrequently",
   "id": "715768417"
 },{
+  "name": "Cost of modules",
+  "category": "Developer Tools",
+  "description": "is a cheeky module that generates a neat table of dependencies with children and size, which would help us to easily identify which dependency is slowing the module down.",
+  "source": "npm",
+  "usage": "Infrequently"
+},{
+  "name": "try-module",
+  "category": "Developer Tools",
+  "description": "Quickly install any node module you want and start a REPL with the installed module in the scope with trymodule",
+  "source": "npm",
+  "usage": "Infrequently"
+},{
   "name": "Trello",
   "category": "Developer Tools",
   "description": "Sprint board",
@@ -169,6 +181,12 @@
   "source": "App Store",
   "usage": "Constantly",
   "id": "577085396"
+},{
+  "name": "gtop",
+  "category": "Utilities",
+  "description": "better top/vtop",
+  "source": "npmjs",
+  "usage": "Infrequently"
 },{
   "name": "The Clock",
   "category": "Utilities",
@@ -360,6 +378,18 @@
   "note": "Originally purchased on the app store",
   "usage": "Infrequently"
 },{
+  "name": "chrome-cli",
+  "category": "Developer Tools",
+  "description": "control chrome from the cli",
+  "source": "brew",
+  "usage": "Infrequently"
+},{
+  "name": "nif",
+  "category": "Developer Tools",
+  "description": "nif is for all the lazy folks try­ing to debug their node script, it runs the node --inspect on the provided file and open the devtool URL chrome-devtools://",
+  "source": "npm",
+  "usage": "Infrequently"
+},{
   "name": "Fromscratch",
   "category": "Utilities",
   "description": "Scratchpad",
@@ -373,11 +403,29 @@
   "source": "brew cask",
   "usage": "Rarely"
 },{
+  "name": "tiny-care-terminal",
+  "category": "Utilities",
+  "description": "This is a little dashboard that tries to take care of you when you're using your terminal. It tells you cute, self care things, and tries not to stress you out.",
+  "source": "npm",
+  "usage": "Constantly"
+},{
+  "name": "git-standup",
+  "category": "Utilities",
+  "description": "dependency of tiny-care-terminal",
+  "source": "npm",
+  "usage": "Constantly"
+},{
   "name": "Mongotron",
   "category": "Developer",
   "description": "Mongo client",
   "source": "brew cask",
   "usage": "Evaluation"
+},{
+  "name": "tldr",
+  "category": "Utilities",
+  "description": "A Node.js based command-line client for tldr.",
+  "source": "npm",
+  "usage": "Frequently"
 },{
   "name": "Hozz",
   "category": "Utilities",
