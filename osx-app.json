@@ -73,6 +73,13 @@
   "source": "npm",
   "usage": "Infrequently"
 },{
+  "git": "https://github.com/coreybutler/porthog",
+  "name": "porthog",
+  "category": "Developer Tools",
+  "description": "This module identifies which application is using a specified port, providing the process name and PID",
+  "source": "npm",
+  "usage": "Infrequently"
+},{
   "name": "Trello",
   "category": "Developer Tools",
   "description": "Sprint board",
